@@ -1,0 +1,7 @@
+<ImageView
+    android:layout_width="48dp"
+    android:layout_height="48dp"
+    android:src="@drawable/ic_placeholder"
+    android:contentDescription="Icon Placeholder"
+    android:layout_marginRight="16dp"
+    android:scaleType="centerCrop" /> <!-- Atur skala gambar -->
